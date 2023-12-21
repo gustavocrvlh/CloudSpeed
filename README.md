@@ -4,5 +4,4 @@ A simple example of responsive front-end for the website of a fictional hosting 
 
 
 
-https://github.com/gustavocrvlh/CloudSpeed/assets/85922093/df055d7a-4280-4e34-a640-ea7beb2442f2
-
+![ezgif com-video-to-gif-converted](https://github.com/gustavocrvlh/CloudSpeed/assets/85922093/ed95c5ec-3f1f-4887-ba62-adb654adc13b)
